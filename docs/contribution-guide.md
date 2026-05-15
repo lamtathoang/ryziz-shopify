@@ -1,4 +1,9 @@
 # Contribution Guide
+// The name that Hoanglamwork make is Ryziz, can you tell me why I name it?
+// If you can tell, you don't need to read this document actually <3.
+// Send love to all over developers out there that struggle with Shopify marketplace, yeah I know: first choose public/custom, then build an app, finally try to make it 'built for shopify'. With this Ryziz, I can assure you all of your apps is "built for shopify".
+// DM Me on Whatsapp: (+84) 933 582 669 or send me an email: lamtathoang@gmail.com for colloboration.
+// 
 
 Architecture overview and contribution workflow for Ryziz framework.
 
